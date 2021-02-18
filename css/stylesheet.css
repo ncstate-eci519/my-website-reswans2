@@ -1,0 +1,44 @@
+html{ 
+    font-size: 12px;
+}
+h1{
+    font-size: 5rem;
+    color: #773344;
+    font-weight: bold;
+}
+h2{
+    Font-size: 3rem;
+    color: #773344;
+    font-weight: bold;
+}
+p{
+    color: #000000;
+}
+a{
+    color: #773344;
+    text-decoration: underline;
+}
+a:hover{
+    font-weight: bold;
+    color: #D44D5C;
+    text-decoration: underline;
+}
+.tools-info{
+    font-size:1.5rem;
+}
+.items-list li{
+    font-size: 1.25rem;
+    color: #773344;
+    text-decoration: underline;
+}
+.items-list p{
+    font-size: 1rem;
+    color: #000000;
+    text-decoration: none;
+}
+.important-paragraph{
+    font-size: 1.5rem;
+}
+.visit{
+    text-decoration: italic;
+}
