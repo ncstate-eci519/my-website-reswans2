@@ -1,13 +1,13 @@
 html{ 
-    font-size: 12px;
+    font-size: 14px;
 }
 h1{
-    font-size: 5rem;
+    font-size: 3rem;
     color: #773344;
     font-weight: bold;
 }
 h2{
-    Font-size: 3rem;
+    Font-size: 2rem;
     color: #773344;
     font-weight: bold;
 }
@@ -24,7 +24,7 @@ a:hover{
     text-decoration: underline;
 }
 .tools-info{
-    font-size:1.5rem;
+    font-size:1.25rem;
 }
 .items-list li{
     font-size: 1.25rem;
