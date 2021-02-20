@@ -1,26 +1,27 @@
 html{ 
     font-size: 14px;
+    background-color: #D5F2E3;
 }
 h1{
     font-size: 3rem;
-    color: #773344;
+    color: #D44D5C;
     font-weight: bold;
 }
 h2{
     Font-size: 2rem;
-    color: #773344;
+    color: #D44D5C;
     font-weight: bold;
 }
 p{
     color: #000000;
 }
 a{
-    color: #773344;
+    color: #D44D5C;
     text-decoration: underline;
 }
 a:hover{
     font-weight: bold;
-    color: #D44D5C;
+    color: #773344;
     text-decoration: underline;
 }
 .tools-info{
