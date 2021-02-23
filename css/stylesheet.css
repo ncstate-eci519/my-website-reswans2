@@ -38,6 +38,61 @@ a:hover{
 .important-paragraph{
     font-size: 1.5rem;
 }
-.visit{
-    text-decoration: italic;
+nav{
+    background-color: #73BA9B;
+    padding: 5px
+}
+nav ul{
+    list-style-type: none;
+    display: inline;
+    font-family: arial;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+.griffith{
+    display: inline-block;
+    color: #D44D5C;
+    background: #73BA9B;
+    padding: 20px 25px;
+    border: 2px solid #4A9576;
+    border-radius: 10px 
+}
+.griffith:hover{
+    font-weight: bold;
+    color: #773344;
+    text-decoration: underline;
+}
+@media print{
+    nav{
+        display: none;
+    }
+}
+@media (prefers-color-scheme: dark){
+    html{
+        background-color: black;
+        color: white;
+    }
+}
+.aside{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    background-color: #73BA9B;
+    width: 25%;
+    float: left;
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: #D44D5C
+}
+@media (max-width: 991px){
+    .aside{
+        background-color: #D5F2E3;
+        color: #000000;
+        float: unset;
+        width: 75%;
+        margin: 0 auto;
+        padding: 25px;
+        }
 }
