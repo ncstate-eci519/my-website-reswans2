@@ -69,12 +69,7 @@ nav ul{
         display: none;
     }
 }
-@media (prefers-color-scheme: dark){
-    html{
-        background-color: black;
-        color: white;
-    }
-}
+
 .aside{
     font-family: Arial, sans-serif;
     font-size: 14px;
