@@ -1,67 +1,62 @@
 html{ 
     font-size: 14px;
-    background-color: #D5F2E3;
+    background-color: #ffffff
+}
+.blue{
+    background-color: #111D4A;
+    color: #ffffff; 
 }
 h1{
     font-size: 3rem;
-    color: #D44D5C;
+    color: #1E1E24;
     font-weight: bold;
 }
 h2{
     Font-size: 2rem;
-    color: #D44D5C;
+    color: #1e1e24;
     font-weight: bold;
 }
 p{
-    color: #000000;
+    color: #1E1E24;
 }
 a{
-    color: #D44D5C;
+    color: #92140C;
     text-decoration: underline;
 }
 a:hover{
     font-weight: bold;
-    color: #773344;
+    color: #390805;
     text-decoration: underline;
+}
+.champ{
+    background-color: #FFCF99;
+    color: #111D4A;
 }
 .tools-info{
     font-size:1.25rem;
 }
 .items-list li{
     font-size: 1.25rem;
-    color: #773344;
+    color: #111D4A;
 }
 .items-list p{
     font-size: 1rem;
-    color: #000000;
+    color: #1E1E24;
 }
 .important-paragraph{
     font-size: 1.5rem;
 }
-nav{
-    background-color: #73BA9B;
-    padding: 5px
-}
-nav ul{
-    list-style-type: none;
-    display: inline;
-    font-family: arial;
-    font-size: 18px;
-    display: flex;
-    justify-content: space-between;
-    padding: 0 10px;
-}
 .griffith{
-    display: inline-block;
-    color: #D44D5C;
-    background: #73BA9B;
-    padding: 20px 25px;
-    border: 2px solid #4A9576;
-    border-radius: 10px 
-}
+        display: inline-block;
+        color: #92140C;
+        background: #ffcf99;
+        padding: 20px 25px;
+        border: 2px solid #FFCF99;
+        border-radius: 10px 
+    }
 .griffith:hover{
     font-weight: bold;
-    color: #773344;
+    color: #390805;
     text-decoration: underline;
 }
 @media print{
@@ -69,25 +64,4 @@ nav ul{
         display: none;
     }
 }
-
-.aside{
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    background-color: #73BA9B;
-    width: 25%;
-    float: left;
-    padding: 10px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    color: #D44D5C
-}
-@media (max-width: 991px){
-    .aside{
-        background-color: #D5F2E3;
-        color: #000000;
-        float: unset;
-        width: 75%;
-        margin: 0 auto;
-        padding: 25px;
-        }
-}
+    
