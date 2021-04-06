@@ -28,6 +28,15 @@ a:hover{
     color: #390805;
     text-decoration: underline;
 }
+.navigation{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.navigation:hover{
+    font-weight: bold;
+    color: #FFCF99;
+    text-decoration: underline;
+}
 .champ{
     background-color: #FFCF99;
     color: #111D4A;
