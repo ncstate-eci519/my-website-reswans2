@@ -63,10 +63,4 @@ a:hover{
     font-weight: bold;
     color: #390805;
     text-decoration: underline;
-}
-@media print{
-    nav{
-        display: none;
-    }
-}
-    
+} 
