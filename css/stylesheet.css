@@ -1,27 +1,27 @@
 html{ 
     font-size: 14px;
-    background-color: #ffffff
+    background-color: #BCA0BC
 }
 h1{
     font-size: 3rem;
-    color: #1E1E24;
+    color: #2B3D41;
     font-weight: bold;
 }
 h2{
     Font-size: 2rem;
-    color: #1e1e24;
+    color: #4C5F6B;
     font-weight: bold;
 }
 p{
-    color: #1E1E24;
+    color: #2B3D41;
 }
 a{
-    color: #92140C;
+    color: #F9B9F2;
     text-decoration: underline;
 }
 a:hover{
     font-weight: bold;
-    color: #390805;
+    color: #83A0A0;
     text-decoration: underline;
 }
 .navigation{
@@ -34,33 +34,33 @@ a:hover{
     text-decoration: underline;
 }
 .champ{
-    background-color: #FFCF99;
-    color: #111D4A;
+    background-color: #83A0A0;
+    color: #2B3D41;
 }
 .tools-info{
     font-size:1.25rem;
 }
 .items-list li{
     font-size: 1.25rem;
-    color: #111D4A;
+    color: #4C5F6B;
 }
 .items-list p{
     font-size: 1rem;
-    color: #1E1E24;
+    color: #2B3D41;
 }
 .important-paragraph{
     font-size: 1.5rem;
 }
 .griffith{
         display: inline-block;
-        color: #92140C;
-        background: #ffcf99;
-        padding: 20px 25px;
-        border: 2px solid #FFCF99;
-        border-radius: 10px 
+        color: #4C5F6B;
+        background: #F9B9F2;
+        padding: 10px 15px;
+        border: 1px solid #F9B9F2;
+        border-radius: 5px 
     }
 .griffith:hover{
     font-weight: bold;
-    color: #390805;
+    color: #83A0A0;
     text-decoration: underline;
 } 
