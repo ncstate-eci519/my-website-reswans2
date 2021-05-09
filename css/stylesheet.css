@@ -53,11 +53,11 @@ a:hover{
 }
 .griffith{
         display: inline-block;
-        color: #4C5F6B;
-        background: #F9B9F2;
+        color: #0000;
+        background: #Ffcf99;
         padding: 10px 15px;
-        border: 1px solid #F9B9F2;
-        border-radius: 5px 
+        border: 1px solid #FFCF99;
+        border-radius: 2px 
     }
 .griffith:hover{
     font-weight: bold;
